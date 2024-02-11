@@ -7,6 +7,7 @@ Requirements:
 3) caer
 
 What I learned and appiled is as follows :
+
 Basics:
   I) Read Image
   II) Read Video
