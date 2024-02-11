@@ -45,6 +45,6 @@ Advance:
   7) Histogram Computation
   8) Advanced Edge Detection
 
-Face Detection & Recognition
+Face Detection & Recognition:
   1) HaarCascade algorithm used to detect the face from the image
   2) Developed the deep learning mode to train and develop the model for the image recodnition of the image
