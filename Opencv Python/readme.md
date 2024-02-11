@@ -1,13 +1,13 @@
 # OpenCV (Python)
 
 
-#Requirements:
+Requirements:
 1) Python
 2) Opencv
 3) caer
 
-#What I learned and appiled is as follows :\
-#Basics:
+What I learned and appiled is as follows :\
+Basics:
   1) Read Image
   2) Read Video
   3) Resize and Rescale Image
@@ -29,7 +29,7 @@
   8) Contours
   9) Threshold in Image
 
-#Advance:
+Advance:
   1) Spaces/Switching between colour spaces:\
      BRG to gray code\
      BRG to HSV\
@@ -45,6 +45,6 @@
   7) Histogram Computation
   8) Advanced Edge Detection
 
-#Face Detection & Recognition:
+Face Detection & Recognition:
   1) HaarCascade algorithm used to detect the face from the image
   2) Developed the deep learning mode to train and develop the model for the image recodnition of the image
