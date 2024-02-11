@@ -7,27 +7,24 @@ Requirements:
 3) caer
 
 What I learned and appiled is as follows :
-
 Basics:
-  I) Read Image
-  II) Read Video
-  III) Resize and Rescale Image 
-  IV) Rsize and Rescale Video
-  V) Draw and rewrite on Image
-  VI) Basics Essential Functions in opencv
-    Image convert
-    Blur Image
-    Edge Cascade
-    Dilating the image
-    Eording Image
-    Resizing the image
-    Cropping the Image
-  VII) Image Transformation
-    Image Transaction Shifting image
-    Image Rotation 
-    Resizing
-    Flipping
-  VIII) Contours
-  IX) Threshold inof Image
-
-
+  1) Read Image
+  2) Read Video
+  3) Resize and Rescale Image
+  4) Rsize and Rescale Video
+  5) Draw and rewrite on Image
+  6) Basics Essential Functions in opencv
+      Image convert
+      Blur Image
+      Edge Cascade
+      Dilating the image
+      Eording Image
+      Resizing the image
+      Cropping the Image
+  7) Image Transformation
+      Image Transaction Shifting image
+      Image Rotation 
+      Resizing
+      Flipping
+  8) Contours
+  9) Threshold in Image
